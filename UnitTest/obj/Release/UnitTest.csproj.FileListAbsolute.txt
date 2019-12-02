@@ -1,0 +1,8 @@
+F:\01_WORK\Temp\CodeTest\UnitTest\bin\Release\UnitTest.dll
+F:\01_WORK\Temp\CodeTest\UnitTest\bin\Release\UnitTest.pdb
+F:\01_WORK\Temp\CodeTest\UnitTest\bin\Release\CodeTest.exe
+F:\01_WORK\Temp\CodeTest\UnitTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\01_WORK\Temp\CodeTest\UnitTest\bin\Release\CodeTest.pdb
+F:\01_WORK\Temp\CodeTest\UnitTest\obj\Release\UnitTest.csprojResolveAssemblyReference.cache
+F:\01_WORK\Temp\CodeTest\UnitTest\obj\Release\UnitTest.dll
+F:\01_WORK\Temp\CodeTest\UnitTest\obj\Release\UnitTest.pdb

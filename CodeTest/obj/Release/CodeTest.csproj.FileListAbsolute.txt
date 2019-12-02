@@ -1,0 +1,6 @@
+F:\01_WORK\Temp\CodeTest\CodeTest\bin\Release\CodeTest.exe.config
+F:\01_WORK\Temp\CodeTest\CodeTest\bin\Release\CodeTest.exe
+F:\01_WORK\Temp\CodeTest\CodeTest\bin\Release\CodeTest.pdb
+F:\01_WORK\Temp\CodeTest\CodeTest\obj\Release\CodeTest.csprojResolveAssemblyReference.cache
+F:\01_WORK\Temp\CodeTest\CodeTest\obj\Release\CodeTest.exe
+F:\01_WORK\Temp\CodeTest\CodeTest\obj\Release\CodeTest.pdb
